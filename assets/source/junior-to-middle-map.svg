@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="3294" viewBox="0 0 1800 3294">
+<rect width="1800" height="3294" fill="#F5F8FC"/>
+<text x="96" y="54" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="700" fill="#0E8074">СИСТЕМНЫЙ АНАЛИЗ / УЧЕБНАЯ КАРТА</text>
+<text x="92" y="111" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="57" font-weight="700" fill="#173147">От Junior до Middle и Middle+</text>
+<text x="96" y="205" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="400" fill="#5B6D80">15 основных блоков · 314 часов · 4 темы по выбору</text>
+<rect x="86" y="294" width="1628" height="430" rx="24" fill="#FFFFFF" stroke="#DCE5EF" stroke-width="2"/>
+<rect x="112" y="318" width="58" height="58" rx="15" fill="#0E8074" stroke="none" stroke-width="2"/>
+<text x="125" y="332" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">01</text>
+<text x="194" y="318" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="33" font-weight="700" fill="#173147">Диагностика домен и требования</text>
+<text x="194" y="364" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Найти пробелы и согласовать условия задачи</text>
+<rect x="112" y="406" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="134" y="424" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#0E8074">M00</text>
+<text x="223" y="424" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Входная диагностика</text>
+<text x="223" y="472" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Индивидуальный маршрут</text>
+<rect x="914" y="406" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="936" y="424" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#0E8074">M01</text>
+<text x="1025" y="424" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Правила и границы</text>
+<text x="1025" y="472" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Неопределённость и инварианты</text>
+<rect x="520" y="556" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="542" y="574" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#0E8074">M02</text>
+<text x="631" y="574" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">НФТ и нагрузка</text>
+<text x="631" y="622" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Измеримые цели качества</text>
+<polyline points="900,729 900,759" fill="none" stroke="#0E8074" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="889,746 900,759 911,746" fill="none" stroke="#0E8074" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="86" y="772" width="1628" height="430" rx="24" fill="#FFFFFF" stroke="#DCE5EF" stroke-width="2"/>
+<rect x="112" y="796" width="58" height="58" rx="15" fill="#0E8074" stroke="none" stroke-width="2"/>
+<text x="125" y="810" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">02</text>
+<text x="194" y="796" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="33" font-weight="700" fill="#173147">Архитектура данные и API</text>
+<text x="194" y="842" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Выбрать решение и сохранить совместимость</text>
+<rect x="112" y="884" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="134" y="902" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#0E8074">M03</text>
+<text x="223" y="902" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Архитектура</text>
+<text x="223" y="950" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">C4 и сравнение вариантов</text>
+<rect x="914" y="884" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="936" y="902" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#0E8074">M04</text>
+<text x="1025" y="902" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Транзакции и SQL</text>
+<text x="1025" y="950" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Конкуренция за последнее место</text>
+<rect x="520" y="1034" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="542" y="1052" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#0E8074">M05</text>
+<text x="631" y="1052" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Эволюция API</text>
+<text x="631" y="1100" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Совместимость и идемпотентность</text>
+<polyline points="900,1207 900,1237" fill="none" stroke="#0E8074" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="889,1224 900,1237 911,1224" fill="none" stroke="#0E8074" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="86" y="1250" width="1628" height="430" rx="24" fill="#FFFFFF" stroke="#DCE5EF" stroke-width="2"/>
+<rect x="112" y="1274" width="58" height="58" rx="15" fill="#0E8074" stroke="none" stroke-width="2"/>
+<text x="125" y="1288" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">03</text>
+<text x="194" y="1274" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="33" font-weight="700" fill="#173147">События надёжность и миграции</text>
+<text x="194" y="1320" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Определить поведение при сбоях и повторах</text>
+<rect x="112" y="1362" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="134" y="1380" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#0E8074">M06</text>
+<text x="223" y="1380" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Обработка событий</text>
+<text x="223" y="1428" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Порядок, повторы, Outbox</text>
+<rect x="720.390625" y="1461" width="148.609375" height="24" rx="7" fill="#0E8074" stroke="none" stroke-width="2"/>
+<text x="731.390625" y="1463" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Проверка 1</text>
+<rect x="914" y="1362" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="936" y="1380" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#0E8074">M07</text>
+<text x="1025" y="1380" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Надёжность</text>
+<text x="1025" y="1428" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Timeout, retry, сверка</text>
+<rect x="520" y="1512" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="542" y="1530" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#0E8074">M08</text>
+<text x="631" y="1530" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Миграции данных</text>
+<text x="631" y="1578" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Переходные версии и проверки</text>
+<polyline points="900,1685 900,1715" fill="none" stroke="#0E8074" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="889,1702 900,1715 911,1702" fill="none" stroke="#0E8074" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="86" y="1728" width="1628" height="430" rx="24" fill="#FFFFFF" stroke="#DCE5EF" stroke-width="2"/>
+<rect x="112" y="1752" width="58" height="58" rx="15" fill="#0E8074" stroke="none" stroke-width="2"/>
+<text x="125" y="1766" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">04</text>
+<text x="194" y="1752" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="33" font-weight="700" fill="#173147">Безопасность и эксплуатация</text>
+<text x="194" y="1798" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Защитить доступ и видеть результат работы</text>
+<rect x="112" y="1840" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="134" y="1858" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#0E8074">M09</text>
+<text x="223" y="1858" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Безопасность</text>
+<text x="223" y="1906" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">OAuth, OIDC, объектные права</text>
+<rect x="914" y="1840" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="936" y="1858" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#0E8074">M10</text>
+<text x="1025" y="1858" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Наблюдаемость</text>
+<text x="1025" y="1906" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Метрики, логи, инциденты</text>
+<rect x="520" y="1990" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="542" y="2008" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#0E8074">M11</text>
+<text x="631" y="2008" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Другие протоколы</text>
+<text x="631" y="2056" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">SOAP, gRPC, файловый обмен</text>
+<polyline points="900,2163 900,2193" fill="none" stroke="#0E8074" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="889,2180 900,2193 911,2180" fill="none" stroke="#0E8074" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="86" y="2206" width="1628" height="430" rx="24" fill="#FFFFFF" stroke="#DCE5EF" stroke-width="2"/>
+<rect x="112" y="2230" width="58" height="58" rx="15" fill="#0E8074" stroke="none" stroke-width="2"/>
+<text x="125" y="2244" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">05</text>
+<text x="194" y="2230" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="33" font-weight="700" fill="#173147">Выпуск и самостоятельность</text>
+<text x="194" y="2276" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Провести изменение через команду до результата</text>
+<rect x="112" y="2318" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="134" y="2336" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#0E8074">M12</text>
+<text x="223" y="2336" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Ведение фичи</text>
+<text x="223" y="2384" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Согласования и план выпуска</text>
+<rect x="720.390625" y="2417" width="148.609375" height="24" rx="7" fill="#0E8074" stroke="none" stroke-width="2"/>
+<text x="731.390625" y="2419" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Проверка 2</text>
+<rect x="914" y="2318" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="936" y="2336" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#0E8074">M13</text>
+<text x="1025" y="2336" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Итоговый проект</text>
+<text x="1025" y="2384" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Защита полного пакета изменения</text>
+<rect x="1564.515625" y="2417" width="106.484375" height="24" rx="7" fill="#0E8074" stroke="none" stroke-width="2"/>
+<text x="1575.515625" y="2419" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Защита</text>
+<rect x="520" y="2468" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="542" y="2486" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#0E8074">M14</text>
+<text x="631" y="2486" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Рабочие кейсы</text>
+<text x="631" y="2534" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Личный вклад и план развития</text>
+<polyline points="900,2641 900,2671" fill="none" stroke="#0E8074" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="889,2658 900,2671 911,2658" fill="none" stroke="#0E8074" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="86" y="2684" width="1628" height="430" rx="24" fill="#FFF9EA" stroke="#DCE5EF" stroke-width="2"/>
+<rect x="112" y="2708" width="58" height="58" rx="15" fill="#A66B13" stroke="none" stroke-width="2"/>
+<text x="125" y="2722" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">06</text>
+<text x="194" y="2708" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="33" font-weight="700" fill="#173147">Middle+ по рабочей задаче</text>
+<text x="194" y="2754" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Дополнительная глубина после основной защиты</text>
+<rect x="112" y="2796" width="774" height="132" rx="16" fill="#FFF3D5" stroke="#DCE5EF" stroke-width="2"/>
+<text x="134" y="2814" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#A66B13">P01</text>
+<text x="223" y="2814" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Сложная операция</text>
+<text x="223" y="2862" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Saga и компенсации</text>
+<rect x="914" y="2796" width="774" height="132" rx="16" fill="#FFF3D5" stroke="#DCE5EF" stroke-width="2"/>
+<text x="936" y="2814" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#A66B13">P02</text>
+<text x="1025" y="2814" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Модели чтения</text>
+<text x="1025" y="2862" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Кэш, CQRS, история событий</text>
+<rect x="112" y="2946" width="774" height="132" rx="16" fill="#FFF3D5" stroke="#DCE5EF" stroke-width="2"/>
+<text x="134" y="2964" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#A66B13">P03</text>
+<text x="223" y="2964" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Межкомандный переход</text>
+<text x="223" y="3012" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Замена внешней системы</text>
+<rect x="914" y="2946" width="774" height="132" rx="16" fill="#FFF3D5" stroke="#DCE5EF" stroke-width="2"/>
+<text x="936" y="2964" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#A66B13">P04</text>
+<text x="1025" y="2964" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Ревью и менторство</text>
+<text x="1025" y="3012" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Общее качество работы команды</text>
+<rect x="86" y="3167" width="1628" height="78" rx="20" fill="#0E8074" stroke="none" stroke-width="2"/>
+<text x="115" y="3190" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">Middle · самостоятельное ведение изменения</text>
+<text x="96" y="3265" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="400" fill="#5B6D80">Материалы, задания и критерии сдачи — в страницах Markdown. Версия 1.1 · 16.10.2026</text>
+</svg>

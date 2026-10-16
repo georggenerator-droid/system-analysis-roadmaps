@@ -1,0 +1,749 @@
+{
+  "checked_at": "2026-10-16",
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Scrum Guide",
+      "url": "https://scrumguides.org/scrum-guide.html",
+      "lang": "EN",
+      "type": "Руководство авторов Scrum",
+      "status": "Открыта"
+    },
+    {
+      "id": "S02",
+      "title": "INVEST для пользовательских историй",
+      "url": "https://www.agilealliance.org/glossary/invest/",
+      "lang": "EN",
+      "type": "Agile Alliance",
+      "status": "Открыта"
+    },
+    {
+      "id": "S03",
+      "title": "Gherkin Reference",
+      "url": "https://cucumber.io/docs/gherkin/reference/",
+      "lang": "EN",
+      "type": "Документация Cucumber",
+      "status": "Открыта"
+    },
+    {
+      "id": "S04",
+      "title": "От хочу к ТЗ",
+      "url": "https://habr.com/ru/companies/sovcombank_technologies/articles/928140/",
+      "lang": "RU",
+      "type": "Опыт аналитика Совкомбанк Технологии",
+      "status": "Открыта"
+    },
+    {
+      "id": "S05",
+      "title": "Работа с требованиями на разных этапах проекта",
+      "url": "https://habr.com/ru/companies/rostelecom/articles/890034/",
+      "lang": "RU",
+      "type": "Опыт аналитика Ростелекома",
+      "status": "Открыта"
+    },
+    {
+      "id": "S06",
+      "title": "Бизнес и системный аналитик Что нужно знать",
+      "url": "https://habr.com/ru/articles/495844/",
+      "lang": "RU",
+      "type": "Авторский обзор практика",
+      "status": "Открыта"
+    },
+    {
+      "id": "S07",
+      "title": "Критерии приемки для пользовательских историй",
+      "url": "https://habr.com/ru/articles/773644/",
+      "lang": "RU",
+      "type": "Авторская статья",
+      "status": "Открыта"
+    },
+    {
+      "id": "S08",
+      "title": "Как сделать BPMN диаграмму чуточку лучше",
+      "url": "https://habr.com/ru/companies/alfa/articles/873720/",
+      "lang": "RU",
+      "type": "Практический разбор Альфа Банка",
+      "status": "Открыта"
+    },
+    {
+      "id": "S09",
+      "title": "BPMN Reference",
+      "url": "https://camunda.com/bpmn/reference/",
+      "lang": "EN",
+      "type": "Документация Camunda",
+      "status": "Открыта"
+    },
+    {
+      "id": "S10",
+      "title": "BPMN Examples",
+      "url": "https://camunda.com/bpmn/examples/",
+      "lang": "EN",
+      "type": "Примеры Camunda",
+      "status": "Открыта"
+    },
+    {
+      "id": "S11",
+      "title": "BPMN 2.0.2",
+      "url": "https://www.omg.org/spec/BPMN/2.0.2/",
+      "lang": "EN",
+      "type": "Стандарт OMG",
+      "status": "Открыта"
+    },
+    {
+      "id": "S12",
+      "title": "UML Sequence в PlantUML",
+      "url": "https://plantuml.com/ru/sequence-diagram",
+      "lang": "RU",
+      "type": "Документация инструмента",
+      "status": "Открыта"
+    },
+    {
+      "id": "S13",
+      "title": "UML State в PlantUML",
+      "url": "https://plantuml.com/ru/state-diagram",
+      "lang": "RU",
+      "type": "Документация инструмента",
+      "status": "Открыта"
+    },
+    {
+      "id": "S14",
+      "title": "UML Use Case в PlantUML",
+      "url": "https://plantuml.com/ru/use-case-diagram",
+      "lang": "RU",
+      "type": "Документация инструмента",
+      "status": "Открыта"
+    },
+    {
+      "id": "S15",
+      "title": "UML 2.5.1",
+      "url": "https://www.omg.org/spec/UML/2.5.1/",
+      "lang": "EN",
+      "type": "Стандарт OMG",
+      "status": "Открыта"
+    },
+    {
+      "id": "S16",
+      "title": "Как работает Интернет",
+      "url": "https://developer.mozilla.org/ru/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work",
+      "lang": "RU",
+      "type": "MDN",
+      "status": "Открыта"
+    },
+    {
+      "id": "S17",
+      "title": "Обзор протокола HTTP",
+      "url": "https://developer.mozilla.org/ru/docs/Web/HTTP/Guides/Overview",
+      "lang": "RU",
+      "type": "MDN",
+      "status": "Открыта"
+    },
+    {
+      "id": "S18",
+      "title": "Коды состояния HTTP",
+      "url": "https://developer.mozilla.org/ru/docs/Web/HTTP/Reference/Status",
+      "lang": "RU",
+      "type": "MDN",
+      "status": "Открыта"
+    },
+    {
+      "id": "S19",
+      "title": "JSON",
+      "url": "https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+      "lang": "RU",
+      "type": "MDN",
+      "status": "Открыта"
+    },
+    {
+      "id": "S20",
+      "title": "Инструменты разработчика в браузере",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Tools_and_setup/What_are_browser_developer_tools",
+      "lang": "EN",
+      "type": "MDN",
+      "status": "Открыта"
+    },
+    {
+      "id": "S21",
+      "title": "CORS",
+      "url": "https://developer.mozilla.org/ru/docs/Web/HTTP/Guides/CORS",
+      "lang": "RU",
+      "type": "MDN",
+      "status": "Открыта"
+    },
+    {
+      "id": "S22",
+      "title": "Язык SQL в документации PostgreSQL",
+      "url": "https://postgrespro.ru/docs/postgresql/17/tutorial-sql",
+      "lang": "RU",
+      "type": "Русская документация Postgres Professional",
+      "status": "Открыта"
+    },
+    {
+      "id": "S23",
+      "title": "Ограничения данных в PostgreSQL",
+      "url": "https://postgrespro.ru/docs/postgresql/17/ddl-constraints",
+      "lang": "RU",
+      "type": "Русская документация Postgres Professional",
+      "status": "Открыта"
+    },
+    {
+      "id": "S24",
+      "title": "PostgreSQL Tutorial",
+      "url": "https://www.postgresql.org/docs/17/tutorial.html",
+      "lang": "EN",
+      "type": "Документация PostgreSQL",
+      "status": "Открыта"
+    },
+    {
+      "id": "S25",
+      "title": "Transaction Isolation",
+      "url": "https://www.postgresql.org/docs/17/transaction-iso.html",
+      "lang": "EN",
+      "type": "Документация PostgreSQL",
+      "status": "Открыта"
+    },
+    {
+      "id": "S26",
+      "title": "Using EXPLAIN",
+      "url": "https://www.postgresql.org/docs/17/using-explain.html",
+      "lang": "EN",
+      "type": "Документация PostgreSQL",
+      "status": "Открыта"
+    },
+    {
+      "id": "S27",
+      "title": "Window Functions",
+      "url": "https://www.postgresql.org/docs/17/tutorial-window.html",
+      "lang": "EN",
+      "type": "Документация PostgreSQL",
+      "status": "Открыта"
+    },
+    {
+      "id": "S28",
+      "title": "SQLBolt",
+      "url": "https://sqlbolt.com/",
+      "lang": "EN",
+      "type": "Интерактивный тренажер авторов",
+      "status": "Открыта"
+    },
+    {
+      "id": "S29",
+      "title": "Интерактивный тренажер по SQL",
+      "url": "https://stepik.org/course/63054/promo",
+      "lang": "RU",
+      "type": "Курс на Stepik",
+      "status": "Подтверждена поиском Страница напрямую не загрузилась"
+    },
+    {
+      "id": "S30",
+      "title": "PostgreSQL Downloads",
+      "url": "https://www.postgresql.org/download/",
+      "lang": "EN",
+      "type": "Официальная загрузка",
+      "status": "Открыта"
+    },
+    {
+      "id": "S31",
+      "title": "DBeaver Community",
+      "url": "https://dbeaver.io/download/",
+      "lang": "EN",
+      "type": "Официальная загрузка",
+      "status": "Открыта"
+    },
+    {
+      "id": "S32",
+      "title": "Postman Quick Start",
+      "url": "https://learning.postman.com/docs/getting-started/quick-start/",
+      "lang": "EN",
+      "type": "Документация Postman",
+      "status": "Открыта"
+    },
+    {
+      "id": "S33",
+      "title": "Postman Downloads",
+      "url": "https://www.postman.com/downloads/",
+      "lang": "EN",
+      "type": "Официальная загрузка",
+      "status": "Открыта"
+    },
+    {
+      "id": "S34",
+      "title": "OpenAPI 3.1.1",
+      "url": "https://spec.openapis.org/oas/v3.1.1.html",
+      "lang": "EN",
+      "type": "Спецификация OpenAPI Initiative",
+      "status": "Открыта"
+    },
+    {
+      "id": "S35",
+      "title": "Basic Structure OpenAPI 3.0",
+      "url": "https://swagger.io/docs/specification/v3_0/basic-structure/",
+      "lang": "EN",
+      "type": "Документация Swagger",
+      "status": "Открыта"
+    },
+    {
+      "id": "S36",
+      "title": "Swagger Editor",
+      "url": "https://editor.swagger.io/",
+      "lang": "EN",
+      "type": "Инструмент Swagger",
+      "status": "Оболочка открыта Интерактивный редактор отдельно не проверен"
+    },
+    {
+      "id": "S37",
+      "title": "Creating your first JSON Schema",
+      "url": "https://json-schema.org/learn/getting-started-step-by-step",
+      "lang": "EN",
+      "type": "Документация JSON Schema",
+      "status": "Открыта"
+    },
+    {
+      "id": "S38",
+      "title": "Проектирование спецификации OpenAPI",
+      "url": "https://habr.com/ru/companies/ozontech/articles/825008/",
+      "lang": "RU",
+      "type": "Практика старшего аналитика Ozon",
+      "status": "Открыта"
+    },
+    {
+      "id": "S39",
+      "title": "Как мы ломали и собирали API заново",
+      "url": "https://habr.com/ru/companies/sberbank/articles/937218/",
+      "lang": "RU",
+      "type": "Опыт команды Сбера",
+      "status": "Открыта"
+    },
+    {
+      "id": "S40",
+      "title": "JSONPlaceholder",
+      "url": "https://jsonplaceholder.typicode.com/",
+      "lang": "EN",
+      "type": "Документация учебного API",
+      "status": "Открыта"
+    },
+    {
+      "id": "S41",
+      "title": "XML 1.0",
+      "url": "https://www.w3.org/TR/xml/",
+      "lang": "EN",
+      "type": "Стандарт W3C",
+      "status": "Открыта"
+    },
+    {
+      "id": "S42",
+      "title": "SOAP 1.2 Messaging Framework",
+      "url": "https://www.w3.org/TR/soap12-part1/",
+      "lang": "EN",
+      "type": "Стандарт W3C",
+      "status": "Открыта"
+    },
+    {
+      "id": "S43",
+      "title": "Введение в gRPC",
+      "url": "https://grpc.io/docs/what-is-grpc/introduction/",
+      "lang": "EN",
+      "type": "Документация gRPC",
+      "status": "Открыта"
+    },
+    {
+      "id": "S44",
+      "title": "Protocol Buffers proto3",
+      "url": "https://protobuf.dev/programming-guides/proto3/",
+      "lang": "EN",
+      "type": "Документация Protobuf",
+      "status": "Открыта"
+    },
+    {
+      "id": "S45",
+      "title": "C4 model",
+      "url": "https://c4model.com/",
+      "lang": "EN",
+      "type": "Сайт автора модели",
+      "status": "Открыта"
+    },
+    {
+      "id": "S46",
+      "title": "Microservices",
+      "url": "https://martinfowler.com/articles/microservices.html",
+      "lang": "EN",
+      "type": "James Lewis и Martin Fowler",
+      "status": "Открыта"
+    },
+    {
+      "id": "S47",
+      "title": "Bounded Context",
+      "url": "https://martinfowler.com/bliki/BoundedContext.html",
+      "lang": "EN",
+      "type": "Martin Fowler",
+      "status": "Открыта"
+    },
+    {
+      "id": "S48",
+      "title": "CQRS",
+      "url": "https://martinfowler.com/bliki/CQRS.html",
+      "lang": "EN",
+      "type": "Martin Fowler",
+      "status": "Открыта"
+    },
+    {
+      "id": "S49",
+      "title": "Saga",
+      "url": "https://microservices.io/patterns/data/saga.html",
+      "lang": "EN",
+      "type": "Паттерны Chris Richardson",
+      "status": "Открыта"
+    },
+    {
+      "id": "S50",
+      "title": "Transactional Outbox",
+      "url": "https://microservices.io/patterns/data/transactional-outbox.html",
+      "lang": "EN",
+      "type": "Паттерны Chris Richardson",
+      "status": "Открыта"
+    },
+    {
+      "id": "S51",
+      "title": "Timeouts retries backoff and jitter",
+      "url": "https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/",
+      "lang": "EN",
+      "type": "AWS Builders Library",
+      "status": "Открыта с перенаправлением"
+    },
+    {
+      "id": "S52",
+      "title": "Idempotent requests",
+      "url": "https://docs.stripe.com/api/idempotent_requests",
+      "lang": "EN",
+      "type": "Документация Stripe как пример контракта",
+      "status": "Открыта"
+    },
+    {
+      "id": "S53",
+      "title": "Webhooks",
+      "url": "https://docs.stripe.com/webhooks",
+      "lang": "EN",
+      "type": "Документация Stripe как пример интеграции",
+      "status": "Открыта"
+    },
+    {
+      "id": "S54",
+      "title": "RabbitMQ Tutorials",
+      "url": "https://www.rabbitmq.com/tutorials",
+      "lang": "EN",
+      "type": "Документация RabbitMQ",
+      "status": "Открыта"
+    },
+    {
+      "id": "S55",
+      "title": "Consumer Acknowledgements and Publisher Confirms",
+      "url": "https://www.rabbitmq.com/docs/confirms",
+      "lang": "EN",
+      "type": "Документация RabbitMQ",
+      "status": "Открыта"
+    },
+    {
+      "id": "S56",
+      "title": "Apache Kafka Documentation",
+      "url": "https://kafka.apache.org/documentation/",
+      "lang": "EN",
+      "type": "Документация Apache Kafka",
+      "status": "Страница выбора документации открыта"
+    },
+    {
+      "id": "S57",
+      "title": "AsyncAPI Document",
+      "url": "https://www.asyncapi.com/docs/concepts/asyncapi-document",
+      "lang": "EN",
+      "type": "Документация AsyncAPI Initiative",
+      "status": "Открыта"
+    },
+    {
+      "id": "S58",
+      "title": "OAuth 2.0",
+      "url": "https://oauth.net/2/",
+      "lang": "EN",
+      "type": "OAuth community",
+      "status": "Открыта"
+    },
+    {
+      "id": "S59",
+      "title": "How OpenID Connect Works",
+      "url": "https://openid.net/developers/how-connect-works/",
+      "lang": "EN",
+      "type": "OpenID Foundation",
+      "status": "Открыта"
+    },
+    {
+      "id": "S60",
+      "title": "RFC 9700 OAuth Security Best Current Practice",
+      "url": "https://www.rfc-editor.org/rfc/rfc9700",
+      "lang": "EN",
+      "type": "IETF",
+      "status": "Открыта"
+    },
+    {
+      "id": "S61",
+      "title": "OWASP API Security Top 10 2023",
+      "url": "https://owasp.org/API-Security/editions/2023/en/0x11-t10/",
+      "lang": "EN",
+      "type": "OWASP",
+      "status": "Открыта с перенаправлением"
+    },
+    {
+      "id": "S62",
+      "title": "Authorization Cheat Sheet",
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html",
+      "lang": "EN",
+      "type": "OWASP",
+      "status": "Открыта"
+    },
+    {
+      "id": "S63",
+      "title": "Logging Cheat Sheet",
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html",
+      "lang": "EN",
+      "type": "OWASP",
+      "status": "Открыта"
+    },
+    {
+      "id": "S64",
+      "title": "Service Level Objectives",
+      "url": "https://sre.google/sre-book/service-level-objectives/",
+      "lang": "EN",
+      "type": "Google SRE Book",
+      "status": "Открыта"
+    },
+    {
+      "id": "S65",
+      "title": "Signals в OpenTelemetry",
+      "url": "https://opentelemetry.io/docs/concepts/signals/",
+      "lang": "EN",
+      "type": "Документация OpenTelemetry",
+      "status": "Открыта"
+    },
+    {
+      "id": "S66",
+      "title": "What is a container",
+      "url": "https://docs.docker.com/get-started/docker-concepts/the-basics/what-is-a-container/",
+      "lang": "EN",
+      "type": "Документация Docker",
+      "status": "Открыта"
+    },
+    {
+      "id": "S67",
+      "title": "Pro Git",
+      "url": "https://git-scm.com/book/ru/v2",
+      "lang": "RU",
+      "type": "Официальная книга Git",
+      "status": "Открыта"
+    },
+    {
+      "id": "S68",
+      "title": "Consumer Driven Contracts",
+      "url": "https://martinfowler.com/articles/consumerDrivenContracts.html",
+      "lang": "EN",
+      "type": "Ian Robinson на сайте Martin Fowler",
+      "status": "Открыта"
+    },
+    {
+      "id": "S69",
+      "title": "Pact Introduction",
+      "url": "https://docs.pact.io/",
+      "lang": "EN",
+      "type": "Документация Pact",
+      "status": "Открыта"
+    },
+    {
+      "id": "S70",
+      "title": "Parallel Change",
+      "url": "https://martinfowler.com/bliki/ParallelChange.html",
+      "lang": "EN",
+      "type": "Martin Fowler",
+      "status": "Открыта"
+    },
+    {
+      "id": "S71",
+      "title": "Feature Toggles",
+      "url": "https://martinfowler.com/articles/feature-toggles.html",
+      "lang": "EN",
+      "type": "Pete Hodgson на сайте Martin Fowler",
+      "status": "Открыта"
+    },
+    {
+      "id": "S72",
+      "title": "RFC 9457 Problem Details for HTTP APIs",
+      "url": "https://www.rfc-editor.org/rfc/rfc9457",
+      "lang": "EN",
+      "type": "IETF",
+      "status": "Открыта"
+    },
+    {
+      "id": "S73",
+      "title": "RFC 9110 HTTP Semantics",
+      "url": "https://www.rfc-editor.org/rfc/rfc9110.html",
+      "lang": "EN",
+      "type": "IETF",
+      "status": "Открыта"
+    },
+    {
+      "id": "S74",
+      "title": "Как мы унифицировали техническое интервью аналитика",
+      "url": "https://habr.com/ru/companies/alfa/articles/893846/",
+      "lang": "RU",
+      "type": "Опыт команды Альфа Банка",
+      "status": "Открыта"
+    },
+    {
+      "id": "S75",
+      "title": "AI в помощь системному аналитику",
+      "url": "https://habr.com/ru/companies/moex/articles/916758/",
+      "lang": "RU",
+      "type": "Опыт Московской биржи",
+      "status": "Открыта"
+    },
+    {
+      "id": "S76",
+      "title": "Forms Tutorial",
+      "url": "https://www.w3.org/WAI/tutorials/forms/",
+      "lang": "EN",
+      "type": "W3C WAI",
+      "status": "Открыта"
+    },
+    {
+      "id": "S77",
+      "title": "Kanban",
+      "url": "https://www.atlassian.com/agile/kanban",
+      "lang": "EN",
+      "type": "Atlassian",
+      "status": "Открыта"
+    },
+    {
+      "id": "V01",
+      "title": "Рисуем схему с нуля BPMN Практика в diagrams net",
+      "url": "https://www.youtube.com/watch?v=88JKYuRbEVo",
+      "lang": "RU",
+      "type": "Видео Ирины Мицуры",
+      "status": "Подтверждено поиском Плеер не проверен"
+    },
+    {
+      "id": "V02",
+      "title": "Activity Diagram построение и применение",
+      "url": "https://systems.education/vebinar/past-vebinars/vx9gtu0cx1-vebinar-activity-diagram-uml-postroenie",
+      "lang": "RU",
+      "type": "Запись и таймкоды Systems Education",
+      "status": "Страница записи открыта Плеер не проверен"
+    },
+    {
+      "id": "V03",
+      "title": "CS50 SQL Week 0 Querying",
+      "url": "https://cs50.harvard.edu/sql/weeks/0/",
+      "lang": "EN",
+      "type": "Открытые видеолекции Harvard",
+      "status": "Страница лекции открыта Плеер не проверен"
+    },
+    {
+      "id": "V04",
+      "title": "CS50 SQL Week 1 Relating",
+      "url": "https://cs50.harvard.edu/sql/weeks/1/",
+      "lang": "EN",
+      "type": "Открытые видеолекции Harvard",
+      "status": "Страница лекции открыта Плеер не проверен"
+    },
+    {
+      "id": "V05",
+      "title": "CS50 SQL Week 2 Designing",
+      "url": "https://cs50.harvard.edu/sql/weeks/2/",
+      "lang": "EN",
+      "type": "Открытые видеолекции Harvard",
+      "status": "Страница лекции открыта Плеер не проверен"
+    },
+    {
+      "id": "V06",
+      "title": "CS50 SQL Week 5 Optimizing",
+      "url": "https://cs50.harvard.edu/sql/weeks/5/",
+      "lang": "EN",
+      "type": "Открытые видеолекции Harvard",
+      "status": "Страница лекции открыта Плеер не проверен"
+    },
+    {
+      "id": "V07",
+      "title": "Kafka 101 Events",
+      "url": "https://developer.confluent.io/courses/apache-kafka/events/",
+      "lang": "EN",
+      "type": "Видео и текст Confluent",
+      "status": "Страница урока открыта Плеер не проверен"
+    },
+    {
+      "id": "V08",
+      "title": "Kafka 101 Partitions",
+      "url": "https://developer.confluent.io/courses/apache-kafka/partitions/",
+      "lang": "EN",
+      "type": "Видео и текст Confluent",
+      "status": "Страница урока открыта Плеер не проверен"
+    },
+    {
+      "id": "V09",
+      "title": "Kafka 101 Consumers",
+      "url": "https://developer.confluent.io/courses/apache-kafka/consumers/",
+      "lang": "EN",
+      "type": "Видео и текст Confluent",
+      "status": "Страница урока открыта Плеер не проверен"
+    },
+    {
+      "id": "V10",
+      "title": "Банк не купили Digital card сами внедрили",
+      "url": "https://rutube.ru/video/5e2527901d839399761406a21604be56/",
+      "lang": "RU",
+      "type": "Доклад Ильи Бравина на канале Analyst Days",
+      "status": "Подтвержден поиском Плеер не проверен"
+    },
+    {
+      "id": "R01",
+      "title": "SA Wiki",
+      "url": "https://sawiki.ru/",
+      "lang": "RU",
+      "type": "Справочник из задания",
+      "status": "Оболочка и индексация подтверждены Полный текст не извлечен"
+    },
+    {
+      "id": "R02",
+      "title": "БА и СА в SA Wiki",
+      "url": "https://sawiki.ru/topic/ba-vs-sa/",
+      "lang": "RU",
+      "type": "Дополнительный справочник",
+      "status": "Оболочка и индексация подтверждены Полный текст не извлечен"
+    },
+    {
+      "id": "R03",
+      "title": "BPMN в SA Wiki",
+      "url": "https://sawiki.ru/topic/bpmn/",
+      "lang": "RU",
+      "type": "Дополнительный справочник",
+      "status": "Оболочка и индексация подтверждены Полный текст не извлечен"
+    },
+    {
+      "id": "R04",
+      "title": "Карточка Ильи Бравина",
+      "url": "https://2r.ru/specialties/system_analyst/013a358e090063961ab89e334c26a9fd",
+      "lang": "RU",
+      "type": "Программа из задания",
+      "status": "Открыта"
+    },
+    {
+      "id": "R05",
+      "title": "Сайт Ильи Бравина",
+      "url": "https://fullstack-analyst.ru/",
+      "lang": "RU",
+      "type": "Самоописание программы",
+      "status": "Открыта"
+    },
+    {
+      "id": "R06",
+      "title": "Карточка Эмилио по ссылке из схемы",
+      "url": "https://2r.ru/specialties/system_analyst/eefbf83fb4bc5d9233e7141a816524d1",
+      "lang": "RU",
+      "type": "Программа из вложенной схемы",
+      "status": "Открыта Имя на текущей странице отличается от героя отдельного разбора nofixx"
+    }
+  ]
+}

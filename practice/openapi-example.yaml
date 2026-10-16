@@ -1,0 +1,86 @@
+openapi: 3.1.1
+info:
+  title: Training Booking API
+  version: 0.1.0
+  description: >-
+    Учебный пример одного метода. Не полная спецификация проекта.
+    Сервер example.com не является действующим backend учебного сервиса.
+servers:
+  - url: https://example.com/training-api
+paths:
+  /bookings/{bookingId}:
+    get:
+      operationId: getOwnBooking
+      summary: Прочитать собственную запись
+      description: >-
+        Владелец определяется из проверенного контекста доступа.
+        Объекты другого владельца в этом учебном контракте возвращают 404.
+      security:
+        - bearerAuth: []
+      parameters:
+        - name: bookingId
+          in: path
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+      responses:
+        '200':
+          description: Собственная запись найдена
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Booking'
+              example:
+                id: 100
+                sessionId: 10
+                status: CONFIRMED
+                cancellationReason: null
+        '401':
+          description: Нет действительного контекста аутентификации
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+        '404':
+          description: Запись отсутствует или не принадлежит пользователю
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+  schemas:
+    Booking:
+      type: object
+      additionalProperties: false
+      required: [id, sessionId, status, cancellationReason]
+      properties:
+        id:
+          type: integer
+          minimum: 1
+        sessionId:
+          type: integer
+          minimum: 1
+        status:
+          type: string
+          enum: [CONFIRMED, CANCELLED]
+        cancellationReason:
+          type: [string, 'null']
+          description: >-
+            Пример явно допускающего null поля OpenAPI 3.1.
+            Бизнес-правила заполнения описываются дополнительно.
+    Error:
+      type: object
+      additionalProperties: false
+      required: [code, message, requestId]
+      properties:
+        code:
+          type: string
+        message:
+          type: string
+        requestId:
+          type: string

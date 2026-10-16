@@ -1,0 +1,18 @@
+@startuml
+title Учебное чтение записи
+actor Клиент
+participant Frontend
+participant Backend
+database PostgreSQL
+Клиент -> Frontend : Открыть запись
+Frontend -> Backend : GET /bookings/100
+Backend -> Backend : Проверить контекст доступа
+Backend -> PostgreSQL : Найти запись и проверить владельца
+PostgreSQL --> Backend : Результат
+alt Собственная запись найдена
+  Backend --> Frontend : 200 Booking
+else Запись отсутствует или принадлежит другому
+  Backend --> Frontend : 404 Error
+end
+Frontend --> Клиент : Показать результат
+@enduml

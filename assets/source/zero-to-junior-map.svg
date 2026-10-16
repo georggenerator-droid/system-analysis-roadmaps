@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="3294" viewBox="0 0 1800 3294">
+<rect width="1800" height="3294" fill="#F5F8FC"/>
+<text x="96" y="54" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="700" fill="#315EEE">СИСТЕМНЫЙ АНАЛИЗ / УЧЕБНАЯ КАРТА</text>
+<text x="92" y="111" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="64" font-weight="700" fill="#173147">С нуля до Junior</text>
+<text x="96" y="205" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="400" fill="#5B6D80">19 блоков · 348 часов · один учебный проект</text>
+<rect x="86" y="294" width="1628" height="430" rx="24" fill="#FFFFFF" stroke="#DCE5EF" stroke-width="2"/>
+<rect x="112" y="318" width="58" height="58" rx="15" fill="#315EEE" stroke="none" stroke-width="2"/>
+<text x="125" y="332" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">01</text>
+<text x="194" y="318" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="33" font-weight="700" fill="#173147">Подготовка и устройство IT</text>
+<text x="194" y="364" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Понять роль аналитика и путь запроса</text>
+<rect x="112" y="406" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="134" y="424" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#315EEE">J00</text>
+<text x="223" y="424" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Рабочее место</text>
+<text x="223" y="472" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Файлы, инструменты, Git</text>
+<rect x="914" y="406" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="936" y="424" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#315EEE">J01</text>
+<text x="1025" y="424" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Аналитик и команда</text>
+<text x="1025" y="472" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Роли и жизненный цикл задачи</text>
+<rect x="520" y="556" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="542" y="574" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#315EEE">J02</text>
+<text x="631" y="574" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Интернет и HTTP</text>
+<text x="631" y="622" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Запрос, ответ, DevTools</text>
+<polyline points="900,729 900,759" fill="none" stroke="#315EEE" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="889,746 900,759 911,746" fill="none" stroke="#315EEE" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="86" y="772" width="1628" height="430" rx="24" fill="#FFFFFF" stroke="#DCE5EF" stroke-width="2"/>
+<rect x="112" y="796" width="58" height="58" rx="15" fill="#315EEE" stroke="none" stroke-width="2"/>
+<text x="125" y="810" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">02</text>
+<text x="194" y="796" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="33" font-weight="700" fill="#173147">Задача заказчика и требования</text>
+<text x="194" y="842" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Выяснить потребность и описать поведение</text>
+<rect x="112" y="884" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="134" y="902" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#315EEE">J03</text>
+<text x="223" y="902" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Сбор информации</text>
+<text x="223" y="950" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Интервью, границы, глоссарий</text>
+<rect x="914" y="884" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="936" y="902" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#315EEE">J04</text>
+<text x="1025" y="902" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Качество требований</text>
+<text x="1025" y="950" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Правила, функции, ограничения</text>
+<rect x="520" y="1034" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="542" y="1052" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#315EEE">J05</text>
+<text x="631" y="1052" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">User Story и Use Case</text>
+<text x="631" y="1100" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Сценарии и критерии приёмки</text>
+<rect x="1128.390625" y="1133" width="148.609375" height="24" rx="7" fill="#315EEE" stroke="none" stroke-width="2"/>
+<text x="1139.390625" y="1135" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Проверка 1</text>
+<polyline points="900,1207 900,1237" fill="none" stroke="#315EEE" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="889,1224 900,1237 911,1224" fill="none" stroke="#315EEE" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="86" y="1250" width="1628" height="430" rx="24" fill="#FFFFFF" stroke="#DCE5EF" stroke-width="2"/>
+<rect x="112" y="1274" width="58" height="58" rx="15" fill="#315EEE" stroke="none" stroke-width="2"/>
+<text x="125" y="1288" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">03</text>
+<text x="194" y="1274" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="33" font-weight="700" fill="#173147">Процессы модели и данные</text>
+<text x="194" y="1320" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Связать бизнес-процесс с устройством системы</text>
+<rect x="112" y="1362" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="134" y="1380" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#315EEE">J06</text>
+<text x="223" y="1380" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">BPMN</text>
+<text x="223" y="1428" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">AS IS и TO BE</text>
+<rect x="914" y="1362" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="936" y="1380" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#315EEE">J07</text>
+<text x="1025" y="1380" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">UML</text>
+<text x="1025" y="1428" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Sequence и состояния</text>
+<rect x="520" y="1512" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="542" y="1530" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#315EEE">J08</text>
+<text x="631" y="1530" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Модель данных</text>
+<text x="631" y="1578" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">ERD, связи, ключи, ограничения</text>
+<polyline points="900,1685 900,1715" fill="none" stroke="#315EEE" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="889,1702 900,1715 911,1702" fill="none" stroke="#315EEE" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="86" y="1728" width="1628" height="430" rx="24" fill="#FFFFFF" stroke="#DCE5EF" stroke-width="2"/>
+<rect x="112" y="1752" width="58" height="58" rx="15" fill="#315EEE" stroke="none" stroke-width="2"/>
+<text x="125" y="1766" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">04</text>
+<text x="194" y="1752" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="33" font-weight="700" fill="#173147">SQL и форматы сообщений</text>
+<text x="194" y="1798" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Получать данные и понимать структуру обмена</text>
+<rect x="112" y="1840" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="134" y="1858" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#315EEE">J09</text>
+<text x="223" y="1858" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Основы SQL</text>
+<text x="223" y="1906" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Выборки, фильтры, агрегаты</text>
+<rect x="914" y="1840" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="936" y="1858" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#315EEE">J10</text>
+<text x="1025" y="1858" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">JOIN и подзапросы</text>
+<text x="1025" y="1906" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Связи и проверка результата</text>
+<rect x="1522.390625" y="1939" width="148.609375" height="24" rx="7" fill="#315EEE" stroke="none" stroke-width="2"/>
+<text x="1533.390625" y="1941" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Проверка 2</text>
+<rect x="520" y="1990" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="542" y="2008" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#315EEE">J11</text>
+<text x="631" y="2008" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">JSON XML и схемы</text>
+<text x="631" y="2056" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Типы и ограничения полей</text>
+<polyline points="900,2163 900,2193" fill="none" stroke="#315EEE" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="889,2180 900,2193 911,2180" fill="none" stroke="#315EEE" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="86" y="2206" width="1628" height="430" rx="24" fill="#FFFFFF" stroke="#DCE5EF" stroke-width="2"/>
+<rect x="112" y="2230" width="58" height="58" rx="15" fill="#315EEE" stroke="none" stroke-width="2"/>
+<text x="125" y="2244" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">05</text>
+<text x="194" y="2230" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="33" font-weight="700" fill="#173147">API интеграции и интерфейс</text>
+<text x="194" y="2276" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Спроектировать взаимодействия и доступ</text>
+<rect x="112" y="2318" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="134" y="2336" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#315EEE">J12</text>
+<text x="223" y="2336" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">REST API</text>
+<text x="223" y="2384" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Методы, поля, ошибки</text>
+<rect x="914" y="2318" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="936" y="2336" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#315EEE">J13</text>
+<text x="1025" y="2336" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">OpenAPI и Postman</text>
+<text x="1025" y="2384" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Контракт и повторяемые запросы</text>
+<rect x="112" y="2468" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="134" y="2486" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#315EEE">J14</text>
+<text x="223" y="2486" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Интеграции</text>
+<text x="223" y="2534" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Webhooks и маппинг</text>
+<rect x="720.390625" y="2567" width="148.609375" height="24" rx="7" fill="#315EEE" stroke="none" stroke-width="2"/>
+<text x="731.390625" y="2569" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Проверка 3</text>
+<rect x="914" y="2468" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="936" y="2486" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#315EEE">J15</text>
+<text x="1025" y="2486" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Интерфейс и права</text>
+<text x="1025" y="2534" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Состояния экранов и доступ</text>
+<polyline points="900,2641 900,2671" fill="none" stroke="#315EEE" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="889,2658 900,2671 911,2658" fill="none" stroke="#315EEE" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="86" y="2684" width="1628" height="430" rx="24" fill="#FFFFFF" stroke="#DCE5EF" stroke-width="2"/>
+<rect x="112" y="2708" width="58" height="58" rx="15" fill="#315EEE" stroke="none" stroke-width="2"/>
+<text x="125" y="2722" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">06</text>
+<text x="194" y="2708" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="33" font-weight="700" fill="#173147">Постановка приёмка и защита</text>
+<text x="194" y="2754" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Собрать связанную работу и объяснить решение</text>
+<rect x="112" y="2796" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="134" y="2814" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#315EEE">J16</text>
+<text x="223" y="2814" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Постановка фичи</text>
+<text x="223" y="2862" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Изменения и трассировка</text>
+<rect x="914" y="2796" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="936" y="2814" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#315EEE">J17</text>
+<text x="1025" y="2814" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Проверка и поддержка</text>
+<text x="1025" y="2862" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Приёмка, дефекты, логи</text>
+<rect x="520" y="2946" width="774" height="132" rx="16" fill="#F4F7FD" stroke="#DCE5EF" stroke-width="2"/>
+<text x="542" y="2964" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#315EEE">J18</text>
+<text x="631" y="2964" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#173147">Проект и портфолио</text>
+<text x="631" y="3012" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" fill="#5B6D80">Защита и подготовка к интервью</text>
+<rect x="1128.390625" y="3045" width="148.609375" height="24" rx="7" fill="#315EEE" stroke="none" stroke-width="2"/>
+<text x="1139.390625" y="3047" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Проверка 4</text>
+<rect x="86" y="3167" width="1628" height="78" rx="20" fill="#315EEE" stroke="none" stroke-width="2"/>
+<text x="115" y="3190" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">Junior · первая аналитическая задача под ревью</text>
+<text x="96" y="3265" dominant-baseline="text-before-edge" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="400" fill="#5B6D80">Материалы, задания и критерии сдачи — в страницах Markdown. Версия 1.1 · 16.10.2026</text>
+</svg>
